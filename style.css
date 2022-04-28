@@ -1,0 +1,43 @@
+.navbar {
+    background-color: rgba(113, 158, 255, 0.726);
+}
+
+.navbar-bramd
+{
+    padding-left: 15px;
+}
+#quemsomos{
+    background-color: lightgray;
+    padding-top: 30px;
+    padding-bottom: 180px;
+}
+.margin{
+    padding-bottom: 50px;
+}
+.rounded-circle{
+    margin-bottom: 105px;
+}
+.parceiros{
+    padding-top: 30px;
+    margin-bottom: 500px;
+}
+.col-ld-4{
+    padding-top: 100px;
+}
+.col-md-4{
+   padding-top:50px;
+    float: left;
+    width:33%;
+    padding: 5px;
+}
+#servicos{
+    background-color: lightgray;
+    padding-top: 30px;
+    padding-bottom: 260px;
+}
+.col-lg-6{
+    padding-top: 100px;
+}
+.celular{
+    height: 423px;
+}
